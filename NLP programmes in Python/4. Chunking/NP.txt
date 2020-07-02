@@ -1,0 +1,21 @@
+(S
+  (NP The/DT prime/JJ minister/NN)
+  announced/VBD
+  he/PRP
+  had/VBD
+  asked/VBN
+  (NP the/DT chief/JJ government/NN whip/NN)
+  ,/,
+  (NP Philip/NNP Ruddock/NNP)
+  ,/,
+  to/TO
+  call/VB
+  (NP a/DT special/JJ party/NN room/NN meeting/NN)
+  for/IN
+  9am/CD
+  on/IN
+  (NP Monday/NNP)
+  to/TO
+  consider/VB
+  (NP the/DT spill/NN motion/NN)
+  ./.)
