@@ -1,3 +1,3 @@
-# NLP-Greek-Presentations
+# NLP-Presentations
 
-Powerpoint Presentations for NLP (Natural Language Processing) in Greek
+Powerpoint Presentations for NLP (Natural Language Processing) & programmes
